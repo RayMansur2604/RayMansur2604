@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RayMansur2604
-- 👀 I’m interested in Formar Engenheiro de Software
+- 👀 I’m interested em Formar Engenheiro de Software
 - 🌱 I’m currently learning Engenharia de Software, Python ( na internet ) Java script, futuramente NoDe
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

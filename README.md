@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RayMansur2604
 - 👀 I’m interested em Formar Engenheiro de Software
-- 🌱 I’m currently learning Engenharia de Software, Python ( na internet ) Java script, futuramente NoDe
+- 🌱 I’m currently learning Engenharia de Software, Python ( na internet ) Java script, futuramente NoDe.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
